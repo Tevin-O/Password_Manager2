@@ -1,13 +1,13 @@
 {
   "name": "password-manager2",
   "version": "1.0.0",
-  "description": "Group Project for my Cryptography Class",
+  "description": "Group Project for Cryptography Class",
   "main": "pm_main.js",
   "type": "module",
   "scripts": {
     "test": "mocha"
   },
-  "author": "Oduma",
+  "author": "Tevin",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
